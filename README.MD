@@ -1,6 +1,6 @@
 A MERN stack application to manage professional and Personal contacts
 
-User : test@gmail
+User : test@gmail.com
 Pass: 123456
 
 Check this out: https://agile-beach-24729.herokuapp.com/login#!
